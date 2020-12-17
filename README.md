@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on ...
 명지대학교 컴퓨터공학과
-멋쟁이사자처럼 명지대학교 자연캠퍼스 8기
-멋쟁이사자처럼 명지대학교 자연캠퍼스 9기 운영진
+멋쟁이사자처럼 8기
+멋쟁이사자처럼 9기 운영진
 
 - 🌱 I’m currently learning ...
 React
