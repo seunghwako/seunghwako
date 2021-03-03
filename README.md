@@ -15,6 +15,8 @@ Python
 
 - 📫 How to reach me:    
 Email: seunghwa333@gmail.com   
+blog: https://velog.io/@seunghwa17
+notion: https://www.notion.so/seunghwa17/Devlog-20dc5fb0437541d6a44d92d8eb165e3a
 
 
 
