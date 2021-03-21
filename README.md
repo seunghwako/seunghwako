@@ -10,8 +10,7 @@ React
 Typescript   
 Next.js   
 AWS   
-GraphQL   
-Python   
+GraphQL     
 
 - 📫 How to reach me:    
 Email: seunghwa333@gmail.com   
