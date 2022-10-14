@@ -6,7 +6,8 @@ Typescript
 Next.js   
 AWS   
 GraphQL  
-Serverless
+NestJs
+MongoDB
 
 - 📫 How to reach me:    
 Email: seunghwa333@gmail.com   
