@@ -11,7 +11,7 @@ MongoDB
 
 - 📫 How to reach me:    
 Email: seunghwa333@gmail.com   
-blog: https://velog.io/@seunghwa17 
+blog: https://velog.io/@seunghwa17         
 Resume: https://sore-hamburger-2e7.notion.site/4f6458585c434be0ae078c74702e0f81
 
 
