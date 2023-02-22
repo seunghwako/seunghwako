@@ -4,10 +4,11 @@
 Typescript   
 AWS 
 REST
-GraphQL  
 Node.js
 NestJs
 MongoDB
+RDB
+TypeORM
 
 - 📫 How to reach me:    
 Email: seunghwa333@gmail.com   
